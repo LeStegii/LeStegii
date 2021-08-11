@@ -4,6 +4,9 @@
 - 🧺 My main projects right now are [Magma][magma] and my network [KettleMC.net][kettlemc]!
 - 🔨 If you want to see my modpacks, visit my [CurseForge][curseforge] page. You can find my old projects [here][curseforge-old].
 
+Many of my repositories are outdated and do not represent my current code style and knowledge level.
+
+
 ### Connect with me:
 
 [<img align="left" alt="kettlemc.net" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][kettlemc]
