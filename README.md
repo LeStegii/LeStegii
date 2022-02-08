@@ -2,6 +2,7 @@
 
 ## I'm a Developer, Modpack-Creator and Network-Owner.
 - 🧺 My main projects right now are [Magma][magma] and my network [KettleMC.net][kettlemc]!
+- 🍬 Wanna know what software to use for your server? Check out [this][softwares].
 - 🔨 If you want to see my modpacks, visit my [CurseForge][curseforge] page. You can find my old projects [here][curseforge-old].
 
 Many of my repositories are outdated and do not represent my current code style and knowledge level.
@@ -25,6 +26,7 @@ Many of my repositories are outdated and do not represent my current code style 
 
 
 [kettlemc]: https://kettlemc.net
+[softwares]: https://github.com/UeberallGebannt/server-softwares
 [magma]: https://github.com/magmafoundation/magma
 [twitter]: https://twitter.com/ueberallgebannt
 [discord]: https://discord.gg/f9P9HEj
