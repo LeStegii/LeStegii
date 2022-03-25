@@ -7,6 +7,7 @@
 
 Many of my repositories are outdated and do not represent my current code style and knowledge level.
 
+If you want to see more up2date code, visit this [organization][kettlemc].
 
 ### Connect with me:
 
@@ -25,7 +26,7 @@ Many of my repositories are outdated and do not represent my current code style 
 <img align="right" alt="UeberallGebannt's Github Stats" src="https://github-readme-stats.vercel.app/api?username=UeberallGebannt&show_icons=true&hide_border=true&theme=radical" />
 
 
-[kettlemc]: https://kettlemc.net
+[kettlemc]: https://github.com/KettleMC-Network
 [softwares]: https://github.com/UeberallGebannt/server-softwares
 [magma]: https://github.com/magmafoundation/magma
 [twitter]: https://twitter.com/ueberallgebannt
