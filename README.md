@@ -28,7 +28,7 @@ If you want to see more up2date code, visit this [organization][kettlemc].
 
 [kettlemc]: https://github.com/KettleMC-Network
 [softwares]: https://github.com/UeberallGebannt/server-softwares
-[magma]: https://github.com/magmafoundation/magma
+[magma]: https://git.magmafoundation.org/magmafoundation/magma
 [twitter]: https://twitter.com/ueberallgebannt
 [discord]: https://discord.gg/f9P9HEj
 [youtube]: https://www.youtube.com/channel/UCM9WaPEk7RclWZyyFcYRAwQ
