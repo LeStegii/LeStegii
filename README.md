@@ -7,7 +7,7 @@
 
 Many of my repositories are outdated and do not represent my current code style and knowledge level.
 
-If you want to see more up2date code, visit this [organization][kettlemc].
+## If you want to see more up2date code, visit this [organization][kettlemc].
 
 ### Connect with me:
 
