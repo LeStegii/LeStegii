@@ -5,11 +5,10 @@
 - 🍬 Wanna know what software to use for your server? Check out [this][softwares].
 - 🔨 If you want to see my modpacks, visit my [CurseForge][curseforge] page. You can find my old projects [here][curseforge-old].
 
-Many of my repositories are outdated and do not represent my current code style and knowledge level.
+Many of my repositories are outdated and do not represent my current code style and knowledge level.</br>
+If you want to see more up2date code, visit this [organization][kettlemc].
 
-## If you want to see more up2date code, visit this [organization][kettlemc].
-
-## Keine Lust mehr auf Uni? https://exmatrikuliermi.ch!
+### 🏫 Keine Lust mehr auf Uni? https://exmatrikuliermi.ch!
 
 ### Connect with me:
 
