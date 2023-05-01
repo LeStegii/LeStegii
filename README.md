@@ -9,6 +9,8 @@ Many of my repositories are outdated and do not represent my current code style 
 
 ## If you want to see more up2date code, visit this [organization][kettlemc].
 
+## Keine Lust mehr auf Uni? https://exmatrikuliermi.ch!
+
 ### Connect with me:
 
 [<img align="left" alt="kettlemc.net" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][kettlemc]
