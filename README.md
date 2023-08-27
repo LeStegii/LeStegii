@@ -1,6 +1,6 @@
-# Hello, I'm Paul aka UeberallGebannt/LeStegii 👋
+# Hello, I'm Paul aka LeStegii 👋
 
-## I'm a Developer, Modpack-Creator and Network-Owner.
+## I'm a Java developer, modpack creator and server network owner.
 - 🧺 My main projects right now are [Magma][magma] and my network [KettleMC.net][kettlemc]!
 - 🍬 Wanna know what software to use for your server? Check out [this][softwares].
 - 🔨 If you want to see my modpacks, visit my [CurseForge][curseforge] page. You can find my old projects [here][curseforge-old].
