@@ -1,37 +1,51 @@
 # Hello, I'm Paul aka LeStegii 👋
 
-## I'm a Java developer, modpack creator and server network owner.
-- 🧺 My main projects right now are [Magma][magma] and my network [KettleMC.net][kettlemc]!
-- 🍬 Wanna know what software to use for your server? Check out [this][softwares].
-- 🔨 If you want to see my modpacks, visit my [CurseForge][curseforge] page. You can find my old projects [here][curseforge-old].
+## ☕️ About me
+I'm currently studying computer science at the University of Kassel. 
+In my free time I'm a Java developer, modpack creator and minecraft server admin.
 
-Many of my repositories are outdated and do not represent my current code style and knowledge level.</br>
-If you want to see more up2date code, visit this [organization][kettlemc].
+## 👨‍👩‍👧‍👦 Organizations
+Here are some organizations/projects I contribute(d) in:
+- 🪣 [KettleMC Network][kettlemc-git] (Plugins, mods and more for my minecraft servers)
+- 🌋 [Magmafoundation][magma-git] (Server software implementing the Bukkit API on top of Forge)
+- 🫖 [SeKassel][sekassel-git]/[Fujaba Tool Site][fujaba-git] (Projects for university related topics)
 
-### 🏫 Keine Lust mehr auf Uni? https://exmatrikuliermi.ch!
+## 🌐 Websites/Domains
+- 🪣 [KettleMC.net][kettlemc-website] (Website for my minecraft modpack servers)
+- 🦖 [LeStegii.de][lestegii-website] (Personal website, mirror of my github page)
+- 🏫 [exmatrikuliermi.ch][exmatrikuliermich-website] (Direct link to the ematriculation page of my university)
 
-### Connect with me:
+## 💻 Connect with me:
 
-[<img align="left" alt="kettlemc.net" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][kettlemc]
-[<img align="left" alt="UeberallGebannt | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="UeberallGebannt | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="UeberallGebannt | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
-[<img align="left" alt="UeberallGebannt | CurseForge" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/curseforge.svg" />][curseforge]
-[<img align="left" alt="UeberallGebannt | CurseForge (Old)" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/curseforge.svg" />][curseforge-old]
+[<img align="left" alt="kettlemc.net" width="22px" src="https://cdn.simpleicons.org/bitbucket" />][kettlemc-website]
+[<img align="left" alt="LeStegii | YouTube" width="22px" src="https://cdn.simpleicons.org/youtube" />][youtube]
+[<img align="left" alt="UeberallGebannt | Twitter" width="22px" src="https://cdn.simpleicons.org/twitter" />][twitter]
+[<img align="left" alt="LeStegii | Discord" width="22px" src="https://cdn.simpleicons.org/discord" />][discord]
+[<img align="left" alt="KettleMC | CurseForge" width="22px" src="https://cdn.simpleicons.org/curseforge" />][curseforge]
+[<img align="left" alt="LeStegii | CurseForge" width="22px" src="https://cdn.simpleicons.org/curseforge" />][curseforge-old]
 
 <br/>
 
 ---
 
-<img align="left" alt="UeberallGebannt's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UeberallGebannt&show_icons=true&hide_border=true&theme=radical" />
-<img align="right" alt="UeberallGebannt's Github Stats" src="https://github-readme-stats.vercel.app/api?username=UeberallGebannt&show_icons=true&hide_border=true&theme=radical" />
+<img align="left" alt="UeberallGebannt's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeStegii&show_icons=true&hide_border=true&theme=radical" />
+<img align="right" alt="UeberallGebannt's Github Stats" src="https://github-readme-stats.vercel.app/api?username=LeStegii&show_icons=true&hide_border=true&theme=radical" />
 
+[kettlemc-git]: https://github.com/KettleMC-Network
+[magma-git]: https://git.magmafoundation.org/magma
+[sekassel-git]: https://github.com/sekassel
+[fujaba-git]: https://github.com/fujaba
 
-[kettlemc]: https://github.com/KettleMC-Network
-[softwares]: https://github.com/UeberallGebannt/server-softwares
-[magma]: https://git.magmafoundation.org/magmafoundation/magma
 [twitter]: https://twitter.com/ueberallgebannt
 [discord]: https://discord.gg/f9P9HEj
-[youtube]: https://www.youtube.com/channel/UCM9WaPEk7RclWZyyFcYRAwQ
+[youtube]: https://www.youtube.com/channel/@lestegii
 [curseforge]: https://www.curseforge.com/members/kettlemc_net/projects
 [curseforge-old]: https://www.curseforge.com/members/ueberallgebannt/projects
+
+[server-softwares]: https://github.com/UeberallGebannt/server-softwares
+[jaskl]: https://github.com/Almighty-Satan/JASKL
+
+[magma-website]: https://magmafoundation.org
+[kettlemc-website]: https://kettlemc.net
+[exmatrikuliermich-website]: https://exmatrikuliermi.ch
+[lestegii-website]: https://lestegii.de
