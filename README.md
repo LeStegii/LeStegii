@@ -60,7 +60,7 @@ Here are some organizations/projects I contribute(d) in:
 <img align="right" alt="UeberallGebannt's Github Stats" src="https://github-readme-stats.vercel.app/api?username=LeStegii&show_icons=true&hide_border=true&theme=radical" />
 
 [kettlemc-git]: https://github.com/KettleMC-Network
-[magma-git]: https://git.magmafoundation.org/magma
+[magma-git]: https://git.magmafoundation.org/magmafoundation
 [sekassel-git]: https://github.com/sekassel
 [fujaba-git]: https://github.com/fujaba
 
