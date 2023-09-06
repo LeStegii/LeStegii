@@ -17,6 +17,7 @@ Here are some organizations/projects I contribute(d) in:
 
 ## 🍕 Projects
 - ⚙ [JASKL][jaskl] (Config library supporting many different formats like YAML, JSON, Hocon and more)
+- 🗨 [SLAMS][slams] (Language library supporting different file and language parser formats like JSON and MiniMessages)
 - 📚 [Server Softwares][server-softwares] (List of many different server softwares for Minecraft)
 - ✉ [Paper 1.7][paper-1.7] (Fork of PaperSpigot for 1.7)
 - 📑 [Many others](https://github.com/LeStegii/repositories) I have not yet listed here!
@@ -72,6 +73,7 @@ Here are some organizations/projects I contribute(d) in:
 
 [server-softwares]: https://github.com/LeStegii/server-softwares
 [jaskl]: https://github.com/Almighty-Satan/JASKL
+[slams]: https://github.com/Almighty-Satan/SLAMS
 [paper-1.7]: https://github.com/LeStegii/Paper-1.7
 [kettlecord]: https://github.com/LeStegii/KettleCord
 
