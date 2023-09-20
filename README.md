@@ -6,18 +6,18 @@ In my free time I'm a Java developer, modpack creator and minecraft server admin
 
 ## 👨‍👩‍👧‍👦 Organizations
 Here are some organizations/projects I contribute(d) in:
-- 🪣 [KettleMC Network][kettlemc-git] (Plugins, mods and more for my minecraft servers)
+- 🗑 [KettleMC Network][kettlemc-git] (Plugins, mods and more for my minecraft servers)
 - 🌋 [Magmafoundation][magma-git] (Server software implementing the Bukkit API on top of Forge)
-- 🫖 [SeKassel][sekassel-git]/[Fujaba Tool Site][fujaba-git] (Projects for university related topics)
+- ☕ [SeKassel][sekassel-git]/[Fujaba Tool Site][fujaba-git] (Projects for university related topics)
 
 ## 🌐 Websites/Domains
-- 🪣 [KettleMC.net][kettlemc-website] (Website for my minecraft modpack servers)
+- 🗑 [KettleMC.net][kettlemc-website] (Website for my minecraft modpack servers)
 - 🦖 [LeStegii.de][lestegii-website] (Personal website, mirror of my github page)
 - 🏫 [exmatrikuliermi.ch][exmatrikuliermich-website] (Direct link to the ematriculation page of my university)
 
 ## 🍕 Projects
-- ⚙ [JASKL][jaskl] (Config library supporting many different formats like YAML, JSON, Hocon and more)
-- 🗨 [SLAMS][slams] (Language library supporting different file and language parser formats like JSON and MiniMessages)
+- 🛠 [JASKL][jaskl] (Config library supporting many different formats like YAML, JSON, Hocon and more)
+- 💬 [SLAMS][slams] (Language library supporting different file and language parser formats like JSON and MiniMessages)
 - 📚 [Server Softwares][server-softwares] (List of many different server softwares for Minecraft)
 - ✉ [Paper 1.7][paper-1.7] (Fork of PaperSpigot for 1.7)
 - 📑 [Many others](https://github.com/LeStegii/repositories) I have not yet listed here!
@@ -46,12 +46,12 @@ Here are some organizations/projects I contribute(d) in:
 
 ## 💻 Connect with me:
 
-- [<img align="left" alt="kettlemc.net" width="22px" src="https://cdn.simpleicons.org/bitbucket"/> KettleMC.net][kettlemc-website]
-- [<img align="left" alt="LeStegii | YouTube" width="22px" src="https://cdn.simpleicons.org/youtube"/> YouTube (LeStegii)][youtube]
-- [<img align="left" alt="UeberallGebannt | Twitter" width="22px" src="https://cdn.simpleicons.org/twitter"/> Twitter][twitter]
-- [<img align="left" alt="LeStegii | Discord" width="22px" src="https://cdn.simpleicons.org/discord"/> Discord Server][discord]
-- [<img align="left" alt="KettleMC | CurseForge" width="22px" src="https://cdn.simpleicons.org/curseforge"/> CurseForge (KettleMC)][curseforge]
-- [<img align="left" alt="LeStegii | CurseForge" width="22px" src="https://cdn.simpleicons.org/curseforge"/> CurseForge (LeStegii)][curseforge-old]
+<br/>[<img align="left" alt="kettlemc.net" width="22px" src="https://cdn.simpleicons.org/bitbucket"/> KettleMC.net][kettlemc-website]
+<br/>[<img align="left" alt="LeStegii | YouTube" width="22px" src="https://cdn.simpleicons.org/youtube"/> YouTube (LeStegii)][youtube]
+<br/>[<img align="left" alt="UeberallGebannt | Twitter" width="22px" src="https://cdn.simpleicons.org/twitter"/> Twitter][twitter]
+<br/>[<img align="left" alt="LeStegii | Discord" width="22px" src="https://cdn.simpleicons.org/discord"/> Discord Server][discord]
+<br/>[<img align="left" alt="KettleMC | CurseForge" width="22px" src="https://cdn.simpleicons.org/curseforge"/> CurseForge (KettleMC)][curseforge]
+<br/>[<img align="left" alt="LeStegii | CurseForge" width="22px" src="https://cdn.simpleicons.org/curseforge"/> CurseForge (LeStegii)][curseforge-old]
 
 <br/>
 
