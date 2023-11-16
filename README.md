@@ -29,6 +29,7 @@ Here are some organizations/projects I contribute(d) in:
 - 📦 [Carpenter's Blocks Plus][carpenters-blocks-plus] (Fork of Carpenter's Blocks by Mineshopper)
 - ⚔ [Titan Reforged][titan-reforged] (Very much work in progress mod for Titan projects)
 - 🔥 [Prodigious Tech][prodigious-tech] (Fork of Prodigy Tech adding more oredict support)
+- 🧹 [Bewitchment][bewitchment] (Backup repository of Bewitchment, backed up since the old owner removed the MIT license)
 
 ## 🔩 Plugins
 - 🥚 [kTemplate][ktemplate] (A spigot/paper/bungee/velocity plugin template allowing for a near instant setup)
@@ -90,6 +91,7 @@ Here are some organizations/projects I contribute(d) in:
 [carpenters-blocks-plus]: https://github.com/KettleMC-Network/carpentersblocks-plus
 [titan-reforged]: https://github.com/LeStegii/Titan-Reforged/tree/setup
 [prodigious-tech]: https://github.com/LeStegii/ProdigiousTech
+[bewitchment]: https://github.com/LeStegii/Bewitchment
 
 [kchat]: https://github.com/KettleMC-Network/kChat
 [ktemplate]: https://github.com/KettleMC-Network/kTemplate
