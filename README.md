@@ -50,7 +50,6 @@ Here are some organizations/projects I contribute(d) in:
 
 - [<img align="left" alt="kettlemc.net" width="22px" src="https://cdn.simpleicons.org/bitbucket"/> KettleMC.net][kettlemc-website]
 - [<img align="left" alt="LeStegii | YouTube" width="22px" src="https://cdn.simpleicons.org/youtube"/> YouTube (LeStegii)][youtube]
-- [<img align="left" alt="UeberallGebannt | Twitter" width="22px" src="https://cdn.simpleicons.org/twitter"/> Twitter][twitter]
 - [<img align="left" alt="LeStegii | Discord" width="22px" src="https://cdn.simpleicons.org/discord"/> Discord Server][discord]
 - [<img align="left" alt="KettleMC | CurseForge" width="22px" src="https://cdn.simpleicons.org/curseforge"/> CurseForge (KettleMC)][curseforge]
 - [<img align="left" alt="LeStegii | CurseForge" width="22px" src="https://cdn.simpleicons.org/curseforge"/> CurseForge (LeStegii)][curseforge-old]
@@ -68,7 +67,6 @@ Here are some organizations/projects I contribute(d) in:
 [sekassel-git]: https://github.com/sekassel
 [fujaba-git]: https://github.com/fujaba
 
-[twitter]: https://twitter.com/ueberallgebannt
 [discord]: https://discord.gg/f9P9HEj
 [youtube]: https://www.youtube.com/@lestegii
 [curseforge]: https://www.curseforge.com/members/kettlemc_net/projects
