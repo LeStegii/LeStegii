@@ -7,7 +7,8 @@ In my free time I'm a Java developer, modpack creator and minecraft server admin
 ## 👨‍👩‍👧‍👦 Organizations
 Here are some organizations/projects I contribute(d) in:
 - 🗑 [KettleMC Network][kettlemc-git] (Plugins, mods and more for my minecraft servers)
-- 🌋 [Magmafoundation][magma-git] (Server software implementing the Bukkit API on top of Forge)
+- 🌋 [Magmafoundation (abandoned)][magma-website] (Server software implementing the Bukkit API on top of Forge)
+- 🔗 [KettingPowered][ketting-git] (Server software implementing the Bukkit API on top of Forge)
 - ☕ [SeKassel][sekassel-git]/[Fujaba Tool Site][fujaba-git] (Projects for university related topics)
 
 ## 🌐 Websites/Domains
@@ -63,6 +64,7 @@ Here are some organizations/projects I contribute(d) in:
 
 [kettlemc-git]: https://github.com/KettleMC-Network
 [magma-git]: https://git.magmafoundation.org/magmafoundation
+[ketting-git]: https://github.com/kettingpowered/
 [sekassel-git]: https://github.com/sekassel
 [fujaba-git]: https://github.com/fujaba
 
