@@ -6,7 +6,8 @@ In my free time I'm developing stuff with java.
 
 ## 👨‍👩‍👧‍👦 Organizations
 Here are some organizations/projects I contribute(d) in:
-- ☕ [SeKassel-Research](https://github.com/sekassel-research)/[Fujaba Tool Site](https://github.com/fujaba) (Projects for university related topics)
+- ☕ [SeKassel-Research](https://github.com/sekassel-research)/[Fujaba Tool Site](https://github.com/fujaba) (Software Engineering Projects)
+- 🌐 [Distributed Systems Kassel](https://github.com/ds-ukassel) (Distributed Systems Projects)
 - 🗑 [KettleMC Network](https://github.com/KettleMC-Network) (Plugins, mods and more for my minecraft servers)
 - 🔗 [KettingPowered](https://github.com/kettingpowered/) (Server software implementing the Bukkit API on top of Forge)
 - 🌋 [Magmafoundation (abandoned)](https://magmafoundation.org) (Server software implementing the Bukkit API on top of Forge)
