@@ -1,7 +1,7 @@
 # Hello, I'm Paul aka LeStegii 👋
 
 ## ☕️ About me
-I'm currently studying computer science (B. Sc.) at the University of Kassel. 
+I'm currently studying computer science (M. Sc.) at the University of Kassel. 
 In my free time I'm developing stuff with java.
 
 ## 👨‍👩‍👧‍👦 Organizations
@@ -10,7 +10,7 @@ Here are some organizations/projects I contribute(d) in:
 - 🌐 [Distributed Systems Kassel](https://github.com/ds-ukassel) (Distributed Systems Projects)
 - 🗑 [KettleMC Network](https://github.com/KettleMC-Network) (Plugins, mods and more for my minecraft servers)
 - 🔗 [KettingPowered](https://github.com/kettingpowered/) (Server software implementing the Bukkit API on top of Forge)
-- 🌋 [Magmafoundation (abandoned)](https://magmafoundation.org) (Server software implementing the Bukkit API on top of Forge)
+- 🌋 [Magmafoundation (abandoned)](https://github.com/MagmaFoundation) (Server software implementing the Bukkit API on top of Forge)
 
 ## 🌐 Websites/Domains
 - 🗑 [KettleMC.net](https://kettlemc.net) (Website for my minecraft modpack servers)
@@ -42,6 +42,7 @@ Here are some organizations/projects I contribute(d) in:
 - 🗯 [kChat](https://github.com/KettleMC-Network/kChat) (Simple chat plugin displaying the luckperms prefix in the chat)
 - 🛡 [ArmedArmorStands](https://github.com/KettleMC-Network/ArmedArmorStands) (A simple plugin allowing the player to add sticks to armorstands)
 - 🌉 [DiscordBridge (abandoned)](https://github.com/KettleMC-Network/DiscordBridge) (A plugin for linking discord and minecraft chats)
+- [...](https://github.com/LeStegii/repositories)
 
 ## 🗺 Minecraft Modpacks
 - 🚀 [JET Modpack](https://github.com/LeStegii/jet) + [BDCraft patch](https://github.com/LeStegii/jet-bdcraft-patch) (A minecraft modpack for 1.7.10 adding tech, weapons and vehicles)
