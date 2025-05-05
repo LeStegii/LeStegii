@@ -18,6 +18,7 @@ Here are some organizations/projects I contribute(d) in:
 - 🏫 [exmatrikuliermi.ch](https://exmatrikuliermi.ch) (Direct link to the ematriculation page of my university)
 
 ## 🍕 Projects
+- ☕ [fulibFx](https://github.com/fujaba/fulibFx/) (MVC Framework for JavaFX implementing some web-like concepts)
 - 🛠 [JASKL](https://github.com/Almighty-Satan/JASKL) (Config library supporting many different formats like YAML, JSON, Hocon and more)
 - 💬 [SLAMS](https://github.com/Almighty-Satan/SLAMS) (Language library supporting different file and language parser formats like JSON and MiniMessages)
 - 📑 [Many others](https://github.com/LeStegii/repositories) I have not yet listed here!
